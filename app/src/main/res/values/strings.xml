@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">testViewPager</string>
+    <string-array name="tab_title">
+        <item>SUPER TAB 1</item>
+        <item>SUPER TAB 2</item>
+        <item>SUPER TAB 3</item>
+    </string-array>
+    <!--<integer-array name="colour">-->
+        <!--<item></item>-->
+    <!--</integer-array>-->
 </resources>

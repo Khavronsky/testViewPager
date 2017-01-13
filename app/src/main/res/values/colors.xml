@@ -3,4 +3,13 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="first_color">#55f44a</color>
+    <color name="second_color">#fd8c23</color>
+    <color name="third_color">#339cff</color>
+
+    <array name="colour">
+        <item>#55f44a</item>
+        <item>#fd8c23</item>
+        <item>#339cff</item>
+    </array>
 </resources>
